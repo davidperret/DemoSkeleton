@@ -1,2 +1,1 @@
-# DemoSkeleton
- 
+# camera_kit_demo
